@@ -4,10 +4,15 @@ Local unit tests运行于JVM之上, 这部分测试并不能测试Android framew
 
 ##1.1 构建测试环境
 
-当我们新建一个Android工程, Android Studio会自动创建本地单元测试代码, 该部分代码位于:
+当我们新建一个Android工程, Android Studio会自动创建Local unit tests与Instrumented tests，它们分别位于：
 ```
 module-name/src/test/java/.
+module-name/src/androidTest/java/.
 ```
+Local unit tests：运行与本地JVM环境中，它并没有涉及Android Framework里的API。
+
+Instrumented tests：运行在Android真实设备或者模拟器上。
+
 接下来我们在Module的build.gradle里添加依赖:
 ```
 dependencies {

@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/android-test-best-practice.iml" filepath="$PROJECT_DIR$/android-test-best-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-testing-framework.iml" filepath="$PROJECT_DIR$/android-testing-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/app.iml" filepath="$PROJECT_DIR$/demo/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit/junit.iml" filepath="$PROJECT_DIR$/junit/junit.iml" />
     </modules>
   </component>
 </project>
