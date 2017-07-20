@@ -1,1 +1,1 @@
-include ':junit'
+include ':junit', ':robotium', ':monkey', ':uiautomator', ':appium', ':jacoco'

@@ -9,7 +9,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/appium" />
+            <option value="$PROJECT_DIR$/jacoco" />
             <option value="$PROJECT_DIR$/junit" />
+            <option value="$PROJECT_DIR$/monkey" />
+            <option value="$PROJECT_DIR$/robotium" />
+            <option value="$PROJECT_DIR$/uiautomator" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

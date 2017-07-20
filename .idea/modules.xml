@@ -5,7 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/android-test-best-practice.iml" filepath="$PROJECT_DIR$/android-test-best-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-testing-framework.iml" filepath="$PROJECT_DIR$/android-testing-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/app.iml" filepath="$PROJECT_DIR$/demo/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appium/appium.iml" filepath="$PROJECT_DIR$/appium/appium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jacoco/jacoco.iml" filepath="$PROJECT_DIR$/jacoco/jacoco.iml" />
       <module fileurl="file://$PROJECT_DIR$/junit/junit.iml" filepath="$PROJECT_DIR$/junit/junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monkey/monkey.iml" filepath="$PROJECT_DIR$/monkey/monkey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robotium/robotium.iml" filepath="$PROJECT_DIR$/robotium/robotium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uiautomator/uiautomator.iml" filepath="$PROJECT_DIR$/uiautomator/uiautomator.iml" />
     </modules>
   </component>
 </project>
